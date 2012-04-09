@@ -1,0 +1,9 @@
+C:\Users\EEE\Desktop\BscCHAss1\BscCHAss1\obj\Debug\BscCHAss1.exe
+C:\Users\EEE\Desktop\BscCHAss1\BscCHAss1\obj\Debug\BscCHAss1.pdb
+C:\Users\EEE\Desktop\BscCHAss1\BscCHAss1\bin\Debug\BscCHAss1.exe
+C:\Users\EEE\Desktop\BscCHAss1\BscCHAss1\bin\Debug\BscCHAss1.pdb
+C:\Users\EEE\Desktop\BscCHAss1\BscCHAss1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EEE\Desktop\BscCHAss1\BscCHAss1\obj\Debug\BscCHAss1.Form1.resources
+C:\Users\EEE\Desktop\BscCHAss1\BscCHAss1\obj\Debug\BscCHAss1.Properties.Resources.resources
+C:\Users\EEE\Desktop\BscCHAss1\BscCHAss1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\EEE\Desktop\BscCHAss1\BscCHAss1\obj\Debug\GenerateResource.write.1.tlog
